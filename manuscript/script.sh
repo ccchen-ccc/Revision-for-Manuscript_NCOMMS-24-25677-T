@@ -21,7 +21,7 @@ TFBSs disruptions were also scored using the SNP2TFBS webtool(https://epd.expasy
 ###Annotation with LungENN
 ###model traning and prediction using selene
 ##The algorithmic framework is available at https://github.com/FunctionLab/selene/;
-#The tranined model of LungENN and predicted results are in the directory of ./data/LungENN/ 
+#The predicted results of LungENN are in the directory of ./data/LungENN/ 
 Rscript ${script}/LungENN.R
 
 ###combind MPRA results and annotations
